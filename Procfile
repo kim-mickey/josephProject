@@ -1,0 +1,1 @@
+web: gunicorn Joseph.wsgi --log-file -
